@@ -1,0 +1,4588 @@
+<?xml version="1.0" ?>
+<SportDatabase xmlns="http://www.weloop.com/xmlschemas/SportDatabase/v1">
+<Activities>
+<Activity DataType="SportData">
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:05">
+<HeartRate>89</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:06">
+<HeartRate>90</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:07">
+<HeartRate>91</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:08">
+<HeartRate>92</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:09">
+<HeartRate>92</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:10">
+<HeartRate>93</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:11">
+<HeartRate>94</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:12">
+<HeartRate>95</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:13">
+<HeartRate>95</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:14">
+<HeartRate>96</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:15">
+<HeartRate>96</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:16">
+<HeartRate>96</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:17">
+<HeartRate>96</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:18">
+<HeartRate>96</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:19">
+<HeartRate>97</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:20">
+<HeartRate>98</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:21">
+<HeartRate>99</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:22">
+<HeartRate>100</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:23">
+<HeartRate>101</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:24">
+<HeartRate>101</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:25">
+<HeartRate>102</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:26">
+<HeartRate>103</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:27">
+<HeartRate>105</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:28">
+<HeartRate>105</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:29">
+<HeartRate>105</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:30">
+<HeartRate>104</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:31">
+<HeartRate>104</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:32">
+<HeartRate>104</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:33">
+<HeartRate>104</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:34">
+<HeartRate>105</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:35">
+<HeartRate>106</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:36">
+<HeartRate>107</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:37">
+<HeartRate>108</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:38">
+<HeartRate>109</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:39">
+<HeartRate>110</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:40">
+<HeartRate>110</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:41">
+<HeartRate>112</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:42">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:43">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:44">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:45">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:46">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:47">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:48">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:49">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:50">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:51">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:52">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:53">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:54">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:55">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:56">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:57">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:58">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:12:59">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:00">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:01">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:02">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:03">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:04">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:05">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:06">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:07">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:08">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:09">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:10">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:11">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:12">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:13">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:14">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:15">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:16">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:17">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:18">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:19">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:20">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:21">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:22">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:23">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:24">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:25">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:26">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:27">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:28">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:29">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:30">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:31">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:32">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:33">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:34">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:35">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:36">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:37">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:38">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:39">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:40">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:41">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:42">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:43">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:44">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:45">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:46">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:47">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:48">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:49">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:50">
+<HeartRate>134</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:51">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:52">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:53">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:54">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:55">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:56">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:57">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:58">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:13:59">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:00">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:01">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:02">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:03">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:04">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:05">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:06">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:07">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:08">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:09">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:10">
+<HeartRate>139</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:11">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:12">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:13">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:14">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:15">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:16">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:17">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:18">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:19">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:20">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:21">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:22">
+<HeartRate>141</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:23">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:24">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:25">
+<HeartRate>141</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:26">
+<HeartRate>141</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:27">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:28">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:29">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:30">
+<HeartRate>139</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:31">
+<HeartRate>139</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:32">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:33">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:34">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:35">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:36">
+<HeartRate>137</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:37">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:38">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:39">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:40">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:41">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:42">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:43">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:44">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:45">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:46">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:47">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:48">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:49">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:50">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:51">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:52">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:53">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:54">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:55">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:56">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:57">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:58">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:14:59">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:00">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:01">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:02">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:03">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:04">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:05">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:06">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:07">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:08">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:09">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:10">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:11">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:12">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:13">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:14">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:15">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:16">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:17">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:18">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:19">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:20">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:21">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:22">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:23">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:24">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:25">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:26">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:27">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:28">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:29">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:30">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:31">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:32">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:33">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:34">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:35">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:36">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:37">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:38">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:39">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:40">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:41">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:42">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:43">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:44">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:45">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:46">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:47">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:48">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:49">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:50">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:51">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:52">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:53">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:55">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:56">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:57">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:58">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:15:59">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:00">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:01">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:02">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:03">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:04">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:05">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:06">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:07">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:08">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:09">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:10">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:11">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:12">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:13">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:14">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:15">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:16">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:17">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:18">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:19">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:20">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:21">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:22">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:23">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:24">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:25">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:26">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:27">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:28">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:29">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:30">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:31">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:32">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:33">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:34">
+<HeartRate>120</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:35">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:36">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:37">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:38">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:39">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:40">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:41">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:42">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:43">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:44">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:45">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:46">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:47">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:48">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:49">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:50">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:51">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:52">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:53">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:54">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:55">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:56">
+<HeartRate>141</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:57">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:58">
+<HeartRate>143</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:16:59">
+<HeartRate>143</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:00">
+<HeartRate>144</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:01">
+<HeartRate>144</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:02">
+<HeartRate>145</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:03">
+<HeartRate>145</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:04">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:05">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:06">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:07">
+<HeartRate>147</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:08">
+<HeartRate>147</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:09">
+<HeartRate>148</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:10">
+<HeartRate>148</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:11">
+<HeartRate>149</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:12">
+<HeartRate>149</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:13">
+<HeartRate>150</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:14">
+<HeartRate>150</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:15">
+<HeartRate>150</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:16">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:17">
+<HeartRate>150</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:18">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:19">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:20">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:21">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:22">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:23">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:24">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:25">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:26">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:27">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:28">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:29">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:30">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:31">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:32">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:33">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:34">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:35">
+<HeartRate>152</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:36">
+<HeartRate>152</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:37">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:38">
+<HeartRate>152</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:39">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:40">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:41">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:42">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:43">
+<HeartRate>154</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:44">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:45">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:46">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:47">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:48">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:49">
+<HeartRate>154</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:50">
+<HeartRate>154</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:51">
+<HeartRate>154</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:52">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:53">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:54">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:55">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:56">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:57">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:58">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:17:59">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:00">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:01">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:02">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:03">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:04">
+<HeartRate>157</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:05">
+<HeartRate>157</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:06">
+<HeartRate>157</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:07">
+<HeartRate>157</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:08">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:09">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:10">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:11">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:12">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:13">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:14">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:15">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:16">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:17">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:18">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:19">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:20">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:21">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:22">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:23">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:24">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:25">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:26">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:27">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:28">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:29">
+<HeartRate>160</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:30">
+<HeartRate>160</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:31">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:32">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:33">
+<HeartRate>159</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:34">
+<HeartRate>158</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:35">
+<HeartRate>157</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:36">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:37">
+<HeartRate>156</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:38">
+<HeartRate>155</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:39">
+<HeartRate>154</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:40">
+<HeartRate>153</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:41">
+<HeartRate>152</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:42">
+<HeartRate>151</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:43">
+<HeartRate>150</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:44">
+<HeartRate>149</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:45">
+<HeartRate>149</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:46">
+<HeartRate>149</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:47">
+<HeartRate>148</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:48">
+<HeartRate>148</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:49">
+<HeartRate>148</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:50">
+<HeartRate>147</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:51">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:52">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:53">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:54">
+<HeartRate>146</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:55">
+<HeartRate>145</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:56">
+<HeartRate>145</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:57">
+<HeartRate>144</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:58">
+<HeartRate>143</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:18:59">
+<HeartRate>143</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:00">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:01">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:02">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:03">
+<HeartRate>142</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:04">
+<HeartRate>141</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:05">
+<HeartRate>140</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:06">
+<HeartRate>139</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:07">
+<HeartRate>138</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:08">
+<HeartRate>136</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:09">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:10">
+<HeartRate>135</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:11">
+<HeartRate>134</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:12">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:13">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:14">
+<HeartRate>133</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:15">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:16">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:17">
+<HeartRate>132</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:18">
+<HeartRate>131</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:19">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:20">
+<HeartRate>130</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:21">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:22">
+<HeartRate>129</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:23">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:24">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:25">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:26">
+<HeartRate>128</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:27">
+<HeartRate>127</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:28">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:29">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:30">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:31">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:32">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:33">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:34">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:35">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:36">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:37">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:38">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:39">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:40">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:41">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:42">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:43">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:44">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:45">
+<HeartRate>126</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:46">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:47">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:48">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:49">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:50">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:51">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:52">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:53">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:54">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:55">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:56">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:57">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:58">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:19:59">
+<HeartRate>122</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:00">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:01">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:02">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:03">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:04">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:05">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:06">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:07">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:08">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:09">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:10">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:11">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:12">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:13">
+<HeartRate>125</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:14">
+<HeartRate>124</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:15">
+<HeartRate>123</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:16">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:17">
+<HeartRate>121</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:18">
+<HeartRate>119</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:19">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:20">
+<HeartRate>118</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:21">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:22">
+<HeartRate>117</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:23">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:24">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:25">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:26">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:27">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:28">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:29">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:30">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:31">
+<HeartRate>114</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:32">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:33">
+<HeartRate>115</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+<DeviceName>XH3</DeviceName>
+<Time StartTime="02/16/2017 15:20:34">
+<HeartRate>116</HeartRate>
+<DistanceKMeters>None</DistanceKMeters>
+<StepRate>None</StepRate>
+<Speed>None</Speed>
+<LongitudeDegrees>None</LongitudeDegrees>
+<LatitudeDegrees>None</LatitudeDegrees>
+</Time>
+</Activity>
+</Activities>
+</SportDatabase>

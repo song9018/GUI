@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<SportDatabase xmlns="http://www.weloop.com/xmlschemas/SportDatabaseDatabase/v1" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Activities>
+<Activity DataType="SportData">
+<DeviceName>XH3</DeviceName>
+<Time StartTime="2017-04-13 16:56:30">
+<DistanceKMeters></DistanceKMeters>
+<HeartRate>100</HeartRate>
+</Time>
+</Activity>
+</Activities>
+</SportDatabase>
